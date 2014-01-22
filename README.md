@@ -1,6 +1,6 @@
 # QR Converter V2
 
-This script uses Ruby, Ruby's CSV parser and [pngqr](https://github.com/andys/pngqr) to convert a CSV file to QR Codes.
+This file uses Ruby, Ruby's CSV parser and [pngqr](https://github.com/andys/pngqr) to convert a CSV file to QR Codes.
 
 All you should need is a recent version of ruby and install the [pngqr](https://github.com/andys/pngqr) code.
 

@@ -3,7 +3,7 @@
 require 'csv'
 require 'pngqr'
 
-csv_text = File.read("ProspectsNew.csv")
+csv_text = File.read("csvfile.csv")
 csv = CSV.parse(csv_text, :headers => true)
 csv.each do |bil|
   
